@@ -1,1 +1,1 @@
-# theDeePClient
+# The DeeP Client
